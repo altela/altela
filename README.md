@@ -1,14 +1,7 @@
 ### Hi there 👋 
-Some people called me Aal, or Al, or All.
+Some people called me Aal, or Al, or All. Currently diving into swift and python programming language. I also interested with [Odoo - Open Source Business App](https://github.com/odoo). 
 
-Currently diving into swift and python programming language. 
-I also interested with [Odoo - Open Source Business App](https://github.com/odoo)
-
-You can reach me via :
-
-📞 - [Discord](https://discordapp.com/users/RaspberryFlakes#2693) 
-
-✉️ - [Email](mailto:altela.pramardhika@gmail.com)
+You can reach me via : [Discord](https://discordapp.com/users/RaspberryFlakes#2693) or [Email](mailto:altela.pramardhika@gmail.com)
 
 Have a nice day!
 
