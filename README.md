@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+Some people called me Aal, or Al, or All.
+Currently diving into swift and python programming language. I also interested with [Odoo - Open Source Business App](https://github.com/odoo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altela)](https://github.com/anuraghazra/github-readme-stats)
+You can reach me via :
+
+📞 - [Discord](https://discordapp.com/users/RaspberryFlakes#2693) 
+
+✉️ - [Email](mailto:altela.pramardhika@gmail.com)
+
+Have a nice day!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Altela&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Altela/altela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
