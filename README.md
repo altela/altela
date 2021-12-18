@@ -1,3 +1,6 @@
-Hey, I'm Aal. 
+Aal, The Adventurer.
+I just went on with everything along the road.
 
-I am [Debian CLI](https://github.com/Debian) savvy and comprehend to run [Odoo ERP](https://github.com/odoo) on it, including [Nginx](https://github.com/nginx) & [Postgresql](https://github.com/postgres) deployment.
+![Aal's GitHub stats](https://github-readme-stats.vercel.app/api?username=altela&count_private=true&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&custom_title=Quest%20Stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altela&layout=compact&theme=github_dark&hide_border=true&custom_title=Dragon%20%Words%20I%20Speak)](https://github.com/anuraghazra/github-readme-stats)
