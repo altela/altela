@@ -1,8 +1,8 @@
 📚 I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some :
 <!-- BLOG-POST-LIST:START -->
+- [Cannot Ping From Linux](https://www.projectflakes.com/2021/12/cannot-ping-from-linux.html)
+- [General Tools That i Use to Help Me Doing My Work](https://www.projectflakes.com/2021/12/general-tools-that-i-use-to-help-me.html)
 - [Hiding A Password or Text By Using An Encoding With Base64 in Python](https://www.projectflakes.com/2021/11/hiding-password-or-text-by-using.html)
-- [ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate &lpar;_ssl.c:1123&rpar;](https://www.projectflakes.com/2021/11/sslsslcertverificationerror-ssl.html)
-- [NEC SL 1000 Phone Do Not Disturb Keep Flashing On](https://www.projectflakes.com/2021/11/nec-sl-1000-phone-do-not-disturb-keep.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Aal, The Adventurer.
