@@ -2,6 +2,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+📚 My Recent TradingView Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- Aal, The Adventurer.
 I just went on with everything along the road.
 
