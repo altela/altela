@@ -1,4 +1,4 @@
-📚 I religiously wrote down my experience tweaking something on my [blog](projectflakes.com). Here are some :
+📚 I religiously wrote down my experience tweaking something on my [blog](www.projectflakes.com). Here are some :
 <!-- BLOG-POST-LIST:START -->
 - [Hiding A Password or Text By Using An Encoding With Base64 in Python](https://www.projectflakes.com/2021/11/hiding-password-or-text-by-using.html)
 - [ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate &lpar;_ssl.c:1123&rpar;](https://www.projectflakes.com/2021/11/sslsslcertverificationerror-ssl.html)
