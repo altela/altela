@@ -5,8 +5,8 @@ I just went on with everything along the road.
 
 📚 I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some :
 <!-- BLOG-POST-LIST:START -->
+- [Install Odoo with Pycharm Community Version in Mac](https://www.projectflakes.com/2022/01/install-odoo-with-pycharm-community.html)
 - [Cannot Ping From Linux](https://www.projectflakes.com/2021/12/cannot-ping-from-linux.html)
 - [General Tools That i Use to Help Me Doing My Work](https://www.projectflakes.com/2021/12/general-tools-that-i-use-to-help-me.html)
-- [Hiding A Password or Text By Using An Encoding With Base64 in Python](https://www.projectflakes.com/2021/11/hiding-password-or-text-by-using.html)
 <!-- BLOG-POST-LIST:END -->
 
