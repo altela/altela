@@ -1,6 +1,10 @@
-📖&nbsp;&nbsp;Currently fascinated with [Python](https://github.com/python) & Building [Odoo](https://github.com/odoo) modules
+:open_book: Currently fascinated with [Python](https://github.com/python) & building [Odoo](https://github.com/odoo) modules
 
-📚&nbsp;&nbsp;I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some of them :
+:bricks: All project i built is saved in [my repository](https://github.com/altela?tab=repositories)
+
+:hammer: Hobby of open-sourcing activity is saved in [my forks](https://github.com/altela-forks), bootcamping archive & code references saved in [my archive](https://github.com/altela-references)
+
+:books: I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
 - [Install Odoo with Pycharm Community Version in Mac](https://www.projectflakes.com/2022/01/install-odoo-with-pycharm-community.html)
 - [Cannot Ping From Linux](https://www.projectflakes.com/2021/12/cannot-ping-from-linux.html)
