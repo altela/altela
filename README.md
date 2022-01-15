@@ -1,4 +1,4 @@
-:open_book: Currently fascinated with [Python](https://github.com/python) & building [Odoo](https://github.com/odoo) modules
+:open_book: Currently fascinated with [Python](https://github.com/python) & building [Odoo modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647)
 
 :bricks: All project i built is saved in [my repository](https://github.com/altela?tab=repositories)
 
