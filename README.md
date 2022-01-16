@@ -6,9 +6,9 @@
 
 :books: I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Install Pycharm .tar.gz in Your Linux Debian Machine](https://www.projectflakes.com/2022/01/install-pycharm-in-your-linux-machine.html)
 - [Install Odoo with Pycharm Community Version in Mac](https://www.projectflakes.com/2022/01/install-odoo-with-pycharm-community.html)
 - [Cannot Ping From Linux](https://www.projectflakes.com/2021/12/cannot-ping-from-linux.html)
-- [General Tools That i Use to Help Me Doing My Work](https://www.projectflakes.com/2021/12/general-tools-that-i-use-to-help-me.html)
 <!-- BLOG-POST-LIST:END -->
 
 
