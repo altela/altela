@@ -6,9 +6,9 @@
 
 :books: I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [ESPT Masa 2126 No Data Exist For Row Column](https://www.projectflakes.com/2022/03/espt-masa-2126-no-data-exist-for-row.html)
 - [Migrating Your Odoo to odoo.sh](https://www.projectflakes.com/2022/01/migrating-your-odoo-to-odoosh.html)
 - [Install Pycharm .tar.gz in Your Linux Debian Machine](https://www.projectflakes.com/2022/01/install-pycharm-in-your-linux-machine.html)
-- [Install Odoo with Pycharm Community Version in Mac](https://www.projectflakes.com/2022/01/install-odoo-with-pycharm-community.html)
 <!-- BLOG-POST-LIST:END -->
 
 
