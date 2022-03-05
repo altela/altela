@@ -20,5 +20,11 @@
   
 <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altela&layout=compact&theme=github_dark&&langs_count=10&hide_border=true&custom_title=Repository's%20Composition%20Languages" />
 </div>
+    
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
+    
 </details>
   
