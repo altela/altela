@@ -1,10 +1,7 @@
-:open_book: Currently fascinated with [Python](https://github.com/python) & building [Odoo modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647)
+Hello, welcome. My name is Altela. I'm currently fascinated with [Python programming](https://github.com/python) and building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) with it. Along with that, I build several project that is saved in [my repository](https://github.com/altela?tab=repositories). When I feel like I'm running out of ideas, I'm contributing to open-source and all forks of it is saved in [my forks](https://github.com/altela-forks), while bootcamping archive & code references saved in [my archive](https://github.com/altela-references).
 
-:bricks: All project i built is saved in [my repository](https://github.com/altela?tab=repositories)
 
-:hammer: Open-sourcing activity is saved in [my forks](https://github.com/altela-forks), bootcamping archive & code references saved in [my archive](https://github.com/altela-references)
-
-:books: I religiously wrote down my experience tweaking something on my [blog](https://www.projectflakes.com). Here are some of them :
+I religiously wrote down my experience tweaking something and documenting it on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
 - [ESPT Masa 2126 No Data Exist For Row Column](https://www.projectflakes.com/2022/03/espt-masa-2126-no-data-exist-for-row.html)
 - [Migrating Your Odoo to odoo.sh](https://www.projectflakes.com/2022/01/migrating-your-odoo-to-odoosh.html)
