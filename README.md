@@ -18,17 +18,7 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altela&layout=compact&theme=github_dark&&langs_count=10&hide_border=true&custom_title=Repository's%20Composition%20Languages" />
 </div>
     
-    
 <!--START_SECTION:waka-->
-
-```text
-Python            9 hrs 54 mins   ████████████████████░░░░░   80.03 %
-JavaScript        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Other             39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-```
-
 <!--END_SECTION:waka-->
-    
-    
+
 </details>
-  
