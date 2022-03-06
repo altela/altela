@@ -19,6 +19,13 @@ I religiously wrote down my experience tweaking something and documenting it on 
 </div>
     
 <!--START_SECTION:waka-->
+
+```text
+Python            9 hrs 54 mins   ████████████████████░░░░░   80.03 %
+JavaScript        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Other             39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
