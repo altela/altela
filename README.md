@@ -3,9 +3,9 @@ Hello, welcome. My name is Altela. I'm currently fascinated with [Python program
 
 I religiously wrote down my experience tweaking something and documenting it on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [How You Should Place Your Odoo Module in Pycharm And Fix Unreadable Custom Addons Folder](https://www.projectflakes.com/2022/03/how-you-should-place-your-odoo-module.html)
 - [ESPT Masa 2126 No Data Exist For Row Column](https://www.projectflakes.com/2022/03/espt-masa-2126-no-data-exist-for-row.html)
 - [Migrating Your Odoo to odoo.sh](https://www.projectflakes.com/2022/01/migrating-your-odoo-to-odoosh.html)
-- [Install Pycharm .tar.gz in Your Linux Debian Machine](https://www.projectflakes.com/2022/01/install-pycharm-in-your-linux-machine.html)
 <!-- BLOG-POST-LIST:END -->
 
 
