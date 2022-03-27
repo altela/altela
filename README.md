@@ -32,3 +32,5 @@ Other            0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+<!-- Waka documentation : https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
