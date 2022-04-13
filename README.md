@@ -21,12 +21,12 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <!--START_SECTION:waka-->
 
 ```text
-Python             7 hrs 56 mins   ███████████████░░░░░░░░░░   60.58 %
-XML                3 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Text               38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-reStructuredText   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-JavaScript         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python             13 hrs 31 mins  ██████████████████▒░░░░░░   72.93 %
+XML                3 hrs 30 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+reStructuredText   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Text               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+JavaScript         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Other              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
