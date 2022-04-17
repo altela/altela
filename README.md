@@ -3,9 +3,9 @@ Hello, welcome. My name is Altela. I'm currently fascinated with [Python program
 
 I religiously wrote down my experience tweaking something and documenting it on my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [How To Utilize and Choose RJ11 Connector Pin For Your Extension Phone](https://www.projectflakes.com/2022/04/how-to-utilize-and-choose-rj11.html)
 - [How To Customize Your Odoo Barcode Labels](https://www.projectflakes.com/2022/04/how-to-customize-your-odoo-barcode.html)
 - [Record cannot be modified right now: This cron task is currently being executed and may not be modified Please try again in a few minutes](https://www.projectflakes.com/2022/03/record-cannot-be-modified-right-now.html)
-- [NET::ERR_CERT_DATE_INVALID Windows 7](https://www.projectflakes.com/2022/03/neterrcertdateinvalid-windows-7.html)
 <!-- BLOG-POST-LIST:END -->
 
 
