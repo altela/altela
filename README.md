@@ -19,7 +19,7 @@ I religiously wrote down my experience tweaking something and documenting it on 
 </div>
     
 <!--START_SECTION:waka-->
-Activity on this week
+
 ```text
 Python             18 hrs 25 mins  ██████████████████████▓░░   90.42 %
 HTML               57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
