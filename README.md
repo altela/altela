@@ -21,12 +21,12 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <!--START_SECTION:waka-->
 
 ```text
-Python            14 hrs 49 mins  █████████████████░░░░░░░░   68.14 %
-Text              3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
-XML               2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-HTML              57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-JSON              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python            14 hrs 15 mins  █████████████████░░░░░░░░   67.51 %
+Text              3 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+XML               2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+HTML              57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 textmate          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
