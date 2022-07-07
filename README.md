@@ -21,8 +21,8 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <!--START_SECTION:waka-->
 
 ```text
-Python   15 hrs 49 mins  ████████████████████████▓   99.19 %
-XML      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Python   10 hrs 33 mins  ████████████████████████▓   98.78 %
+XML      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
