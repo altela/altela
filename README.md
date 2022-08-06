@@ -21,11 +21,10 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 19 mins   ███████████▓░░░░░░░░░░░░░   46.91 %
-HTML     2 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-Text     1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-XML      1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-CSS      1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Python   8 hrs 16 mins   ████████████▒░░░░░░░░░░░░   48.79 %
+Text     3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+HTML     2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
+XML      1 hr 59 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
 ```
 
 <!--END_SECTION:waka-->
