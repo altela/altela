@@ -21,9 +21,9 @@ I religiously wrote down my experience tweaking something and documenting it on 
 <!--START_SECTION:waka-->
 
 ```text
-PHP      3 hrs 10 mins   ████████████████▒░░░░░░░░   65.99 %
-HTML     59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-Python   38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
+Python   3 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.77 %
+PHP      3 hrs 10 mins   ██████████▒░░░░░░░░░░░░░░   41.26 %
+HTML     59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
 ```
 
 <!--END_SECTION:waka-->
