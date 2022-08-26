@@ -1,7 +1,4 @@
-Hello, welcome. My name is Altela. I'm currently fascinated with [Python programming](https://github.com/python) and building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) with it. Along with that, I build several project that is saved in [my repository](https://github.com/altela?tab=repositories). When I feel like I'm running out of ideas, I'm contributing to open-source and all forks of it is saved in [my forks](https://github.com/projectflakes).
-
-
-I religiously wrote down my experience tweaking something and documenting it on my [blog](https://www.projectflakes.com). Here are some of them :
+Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://www.projectflakes.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
 - [How To Backup And Restore Large Odoo Database Through Backend](https://www.projectflakes.com/2022/04/how-to-backup-and-restore-large-odoo.html)
 - [How To Utilize and Choose RJ11 Connector Pin For Your Extension Phone](https://www.projectflakes.com/2022/04/how-to-utilize-and-choose-rj11.html)
