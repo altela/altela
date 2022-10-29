@@ -18,9 +18,9 @@ Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maint
 <!--START_SECTION:waka-->
 
 ```text
-Python            13 hrs 50 mins  █████████████████████▒░░░   85.72 %
-XML               2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
-Gettext Catalog   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python            22 hrs 19 mins  ███████████████████████░░   91.44 %
+XML               2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Gettext Catalog   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
