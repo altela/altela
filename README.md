@@ -18,12 +18,12 @@ Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maint
 <!--START_SECTION:waka-->
 
 ```text
-Python            7 hrs 20 mins   ████████████████▓░░░░░░░░   67.00 %
-XML               3 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 %
-Text              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-JavaScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   4 hrs 3 mins    ██████████████████░░░░░░░   71.63 %
+XML      1 hr 31 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+CSS      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SVG      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
