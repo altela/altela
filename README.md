@@ -1,8 +1,6 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
-- [How To Backup And Restore Large Odoo Database Through Backend](https://www.projectflakes.com/2022/04/how-to-backup-and-restore-large-odoo.html)
-- [How To Utilize and Choose RJ11 Connector Pin For Your Extension Phone](https://www.projectflakes.com/2022/04/how-to-utilize-and-choose-rj11.html)
-- [How To Customize Your Odoo Barcode Labels](https://www.projectflakes.com/2022/04/how-to-customize-your-odoo-barcode.html)
+- [Odoo Days Indonesia 2022 : Experience](https://blog.altela.net/2022/12/odoo-days-indonesia-2022-experience.html)
 <!-- BLOG-POST-LIST:END -->
 
 
