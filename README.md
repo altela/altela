@@ -1,5 +1,6 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [How To Customize Your Odoo 12 Barcode Labels](https://blog.altela.net/2023/01/how-to-customize-your-odoo-12-barcode.html)
 - [How To Backup And Restore Large Odoo Database](https://blog.altela.net/2023/01/how-to-backup-and-restore-large-odoo.html)
 - [Odoo Days Indonesia 2022 : Experience](https://blog.altela.net/2022/12/odoo-days-indonesia-2022-experience.html)
 <!-- BLOG-POST-LIST:END -->
