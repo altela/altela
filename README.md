@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Record cannot be modified right now: This cron task is currently being executed and may not be modified Please try again in a few minutes](https://blog.altela.net/2023/01/record-cannot-be-modified-right-now.html)
 - [How You Should Place Your Odoo Module in Pycharm And Fix Unreadable Custom Addons Folder](https://blog.altela.net/2023/01/how-you-should-place-your-odoo-module.html)
 - [How To Customize Your Odoo 12 Barcode Labels](https://blog.altela.net/2023/01/how-to-customize-your-odoo-12-barcode.html)
-- [How To Backup And Restore Large Odoo Database](https://blog.altela.net/2023/01/how-to-backup-and-restore-large-odoo.html)
 <!-- BLOG-POST-LIST:END -->
 
 
