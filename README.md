@@ -1,4 +1,4 @@
-Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.com). Here are some of them :
+Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
 - [Migrate To Odoo.sh](https://blog.altela.net/2023/01/migrate-to-odoosh.html)
 - [Record cannot be modified right now: This cron task is currently being executed and may not be modified Please try again in a few minutes](https://blog.altela.net/2023/01/record-cannot-be-modified-right-now.html)
