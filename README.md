@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Error: postgresql@11-main.service: PID file /var/run/postgresql/11-main.pid not readable &lpar;yet?&rpar; after start: No such file or directory](https://blog.altela.net/2023/01/error-postgresql11-mainservice-pid-file.html)
 - [Install Odoo with Pycharm Community Version in Mac](https://blog.altela.net/2023/01/install-odoo-with-pycharm-community.html)
 - [Migrate To Odoo.sh](https://blog.altela.net/2023/01/migrate-to-odoosh.html)
-- [Record cannot be modified right now: This cron task is currently being executed and may not be modified Please try again in a few minutes](https://blog.altela.net/2023/01/record-cannot-be-modified-right-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 
