@@ -18,12 +18,12 @@ Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maint
 <!--START_SECTION:waka-->
 
 ```text
-Python             17 hrs 21 mins  █████████████████▓░░░░░░░   70.36 %
-XML                3 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-SCSS               1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-CSS                1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-HTML               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Text               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Python             15 hrs 4 mins   ██████████████▓░░░░░░░░░░   58.60 %
+XML                4 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+SCSS               2 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+CSS                1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+HTML               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+textmate           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
