@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Error When Printing Odoo Report Wkhtmltopdf Failed &lpar;Error Code -6&rpar;](https://blog.altela.net/2023/01/error-when-printing-odoo-report.html)
 - [Rename Odoo Service In Linux](https://blog.altela.net/2023/01/rename-odoo-service-in-linux.html)
 - [Odoo Cannot Change Technical Name Of A Field](https://blog.altela.net/2023/01/odoo-cannot-change-technical-name-of.html)
-- [Error: postgresql@11-main.service: PID file /var/run/postgresql/11-main.pid not readable &lpar;yet?&rpar; after start: No such file or directory](https://blog.altela.net/2023/01/error-postgresql11-mainservice-pid-file.html)
 <!-- BLOG-POST-LIST:END -->
 
 
