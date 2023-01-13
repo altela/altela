@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Error : odoo.tools.translate: translation went wrong for &quot;&#39;Selecting the &quot;Warning&quot;](https://blog.altela.net/2023/01/error-odootoolstranslate-translation.html)
 - [Error : WARNING ? odoo.service.server: Thread virtual real time limit &lpar;168/120s&rpar; reached.](https://blog.altela.net/2023/01/error-warning-odooserviceserver-thread.html)
 - [Very Simple Way To Restore Odoo Database Via Web Interface](https://blog.altela.net/2023/01/very-simple-way-to-restore-odoo.html)
-- [Error When Printing Odoo Report Wkhtmltopdf Failed &lpar;Error Code -6&rpar;](https://blog.altela.net/2023/01/error-when-printing-odoo-report.html)
 <!-- BLOG-POST-LIST:END -->
 
 
