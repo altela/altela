@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Back Up Odoo Database Via Postgresql](https://blog.altela.net/2023/01/back-up-odoo-database-via-postgresql.html)
 - [Backup Odoo Automatically Using Crontab in Linux Debian](https://blog.altela.net/2023/01/backup-odoo-automatically-using-crontab.html)
 - [Error : odoo.addons.base.models.res_currency: num2words python library is not installed](https://blog.altela.net/2023/01/error-odooaddonsbasemodelsrescurrency.html)
-- [Error : odoo.tools.translate: translation went wrong for &quot;&#39;Selecting the &quot;Warning&quot;](https://blog.altela.net/2023/01/error-odootoolstranslate-translation.html)
 <!-- BLOG-POST-LIST:END -->
 
 
