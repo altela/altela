@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Cancelling Journal Entries in Odoo](https://blog.altela.net/2023/01/cancelling-journal-entries-in-odoo.html)
 - [Run Odoo Cashier With Fullscreen Mode Using Kiosk on Google Chrome in Windows](https://blog.altela.net/2023/01/run-odoo-cashier-with-fullscreen-mode.html)
 - [ERROR:  could not obtain lock on row in relation &quot;ir_cron&quot;](https://blog.altela.net/2023/01/error-could-not-obtain-lock-on-row-in.html)
-- [Back Up Odoo Database Via Postgresql](https://blog.altela.net/2023/01/back-up-odoo-database-via-postgresql.html)
 <!-- BLOG-POST-LIST:END -->
 
 
