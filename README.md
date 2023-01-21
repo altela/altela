@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Odoo Takes Too Long Time To Validate](https://blog.altela.net/2023/01/odoo-takes-too-long-time-to-validate.html)
 - [Limit Odoo Upload Time With NGINX](https://blog.altela.net/2023/01/limit-odoo-upload-time-with-nginx.html)
 - [Cancelling Journal Entries in Odoo](https://blog.altela.net/2023/01/cancelling-journal-entries-in-odoo.html)
-- [Run Odoo Cashier With Fullscreen Mode Using Kiosk on Google Chrome in Windows](https://blog.altela.net/2023/01/run-odoo-cashier-with-fullscreen-mode.html)
 <!-- BLOG-POST-LIST:END -->
 
 
