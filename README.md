@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Odoo Having Double Location Problem &lpar;Double Stock Quant&rpar;](https://blog.altela.net/2023/01/odoo-having-double-location-problem.html)
 - [Odoo Database Maintenance Using Postgresql Vacuum](https://blog.altela.net/2023/01/odoo-database-maintenance-using_01303608544.html)
 - [Odoo Takes Too Long Time To Validate](https://blog.altela.net/2023/01/odoo-takes-too-long-time-to-validate.html)
-- [Limit Odoo Upload Time With NGINX](https://blog.altela.net/2023/01/limit-odoo-upload-time-with-nginx.html)
 <!-- BLOG-POST-LIST:END -->
 
 
