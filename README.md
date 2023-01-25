@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Reset Odoo User Login Password](https://blog.altela.net/2023/01/reset-odoo-user-login-password.html)
 - [Odoo Multi Currency Conversion](https://blog.altela.net/2023/01/odoo-multi-currency-conversion.html)
 - [Odoo Having Double Location Problem &lpar;Double Stock Quant&rpar;](https://blog.altela.net/2023/01/odoo-having-double-location-problem.html)
-- [Odoo Database Maintenance Using Postgresql Vacuum](https://blog.altela.net/2023/01/odoo-database-maintenance-using_01303608544.html)
 <!-- BLOG-POST-LIST:END -->
 
 
