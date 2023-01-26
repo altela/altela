@@ -1,8 +1,8 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Set Up Seperate Odoo Server With Other Database in Linux](https://blog.altela.net/2023/01/set-up-seperate-odoo-server-with-other.html)
 - [Reset Odoo User Login Password](https://blog.altela.net/2023/01/reset-odoo-user-login-password.html)
 - [Odoo Multi Currency Conversion](https://blog.altela.net/2023/01/odoo-multi-currency-conversion.html)
-- [Odoo Having Double Location Problem &lpar;Double Stock Quant&rpar;](https://blog.altela.net/2023/01/odoo-having-double-location-problem.html)
 <!-- BLOG-POST-LIST:END -->
 
 
