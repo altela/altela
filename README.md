@@ -1,8 +1,6 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
-- [Install Odoo 12 Community Version in Debian 9 Stretch](https://blog.altela.net/2023/01/install-odoo-12-community-version-in.html)
-- [Access Odoo Using Local Domain](https://blog.altela.net/2023/01/access-odoo-using-local-domain.html)
-- [Set Up Seperate Odoo Server With Other Database in Linux](https://blog.altela.net/2023/01/set-up-seperate-odoo-server-with-other.html)
+- [Migrate Odoo On-Premise to Odoo.sh](https://blog.altela.net/2023/06/migrate-odoo-on-premise-to-odoo-sh.html)
 <!-- BLOG-POST-LIST:END -->
 
 
