@@ -1,5 +1,6 @@
 Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [blog](https://blog.altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [POS Multiple Coupon Discount](https://www.altela.net/2023/06/pos-multiple-coupon-discount.html)
 - [Change Effective Date](https://www.altela.net/2023/06/change-effective-date.html)
 - [Migrate Odoo On-Premise to Odoo.sh](https://www.altela.net/2023/06/migrate-odoo-on-premise-to-odoo-sh.html)
 <!-- BLOG-POST-LIST:END -->
