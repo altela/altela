@@ -22,11 +22,11 @@ Hi, I'm building [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maint
 <!--START_SECTION:waka-->
 
 ```txt
-XML                7 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.59 %
-Python             5 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   39.48 %
-Text               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-GitIgnore file     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-reStructuredText   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+XML                7 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.32 %
+Python             5 hrs 58 mins   ██████████▒░░░░░░░░░░░░░░   40.78 %
+Text               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+GitIgnore file     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+HTML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
