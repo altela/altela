@@ -2,7 +2,7 @@ Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_mainta
 <!-- BLOG-POST-LIST:START -->
 - [How to Upload Custom Module to Odoo.sh](https://www.altela.net/2023/06/how-to-upload-custom-module-to-odoo-sh.html)
 - [Migrate Odoo On-Premise to Odoo.sh](https://www.altela.net/2023/06/migrate-odoo-on-premise-to-odoo-sh.html)
-- [Record cannot be modified right now: This cron task is currently being executed and may not be modified Please try again in a few minutes](https://www.altela.net/2023/01/record-cannot-be-modified-right-now.html)
+- [Odoo Database Maintenance Using Postgresql Vacuum](https://www.altela.net/2023/01/odoo-database-maintenance-using_01303608544.html)
 <!-- BLOG-POST-LIST:END -->
 
 
