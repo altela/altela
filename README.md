@@ -2,7 +2,7 @@ Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_mainta
 <!-- BLOG-POST-LIST:START -->
 - [How to Upload Custom Module to Odoo.sh](https://www.altela.net/2023/06/how-to-upload-custom-module-to-odoo-sh.html)
 - [Migrate Odoo On-Premise to Odoo.sh](https://www.altela.net/2023/06/migrate-odoo-on-premise-to-odoo-sh.html)
-- [Odoo Database Maintenance Using Postgresql Vacuum](https://www.altela.net/2023/01/odoo-database-maintenance-using_01303608544.html)
+- [Odoo 12 Multi Currency Conversion in Sales Order](https://www.altela.net/2023/01/odoo-multi-currency-conversion.html)
 <!-- BLOG-POST-LIST:END -->
 
 
