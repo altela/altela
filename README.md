@@ -1,8 +1,7 @@
 Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altela.net). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Odoo 12 Community Version in Docker](https://www.altela.net/2023/08/how-to-deploy-odoo-12-community-version.html)
-- [Odoo Module Development Best Practice](https://www.altela.net/2023/08/odoo-module-development-best-practice.html)
-- [Lambda Function in Odoo](https://www.altela.net/2023/08/lambda-function-in-odoo.html)
+- [Odoo Best Practice For Developing Your Modules](https://altelasoftware.com/odoo-best-practice-for-developing-modules/)
+- [Hello world!](https://altelasoftware.com/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 
