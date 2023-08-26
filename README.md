@@ -1,4 +1,4 @@
-Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altela.net). Here are some of them :
+Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
 - [Odoo Best Practice For Developing Your Modules](https://altelasoftware.com/odoo-best-practice-for-developing-modules/)
 - [Hello world!](https://altelasoftware.com/hello-world/)
