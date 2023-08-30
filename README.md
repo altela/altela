@@ -1,8 +1,8 @@
 Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [How To Backup And Restore Large Odoo Database](https://altelasoftware.com/how-to-backup-and-restore-large-odoo-database/)
 - [How To Use Lambda Function in Odoo](https://altelasoftware.com/how-to-use-lambda-function-in-odoo/)
 - [How to Enable Harmonized System in Odoo](https://altelasoftware.com/how-to-enable-harmonized-system-in-odoo/)
-- [How to Create One2Many Fields in Odoo](https://altelasoftware.com/how-to-create-one2many-fields-in-odoo/)
 <!-- BLOG-POST-LIST:END -->
 
 
