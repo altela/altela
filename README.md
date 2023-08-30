@@ -1,7 +1,8 @@
 Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [How to Enable Harmonized System in Odoo](https://altelasoftware.com/how-to-enable-harmonized-system-in-odoo/)
+- [How to Create One2Many Fields in Odoo](https://altelasoftware.com/how-to-create-one2many-fields-in-odoo/)
 - [How to Deploy Odoo 16 Community in Docker](https://altelasoftware.com/how-to-deploy-odoo-16-community-in-docker/)
-- [Odoo Best Practice For Developing Your Modules](https://altelasoftware.com/odoo-best-practice-for-developing-modules/)
 <!-- BLOG-POST-LIST:END -->
 
 
