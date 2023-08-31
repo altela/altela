@@ -1,8 +1,8 @@
 Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
+- [Odoo Error Installing Module : Record cannot be modified right now](https://altelasoftware.com/odoo-error-installing-module-record-cannot-be-modified-right-now/)
+- [How To Disable assigned you an activity To Do Notification in Odoo](https://altelasoftware.com/how-to-disable-assigned-you-an-activity-to-do-notification-in-odoo/)
 - [How To Backup And Restore Large Odoo Database](https://altelasoftware.com/how-to-backup-and-restore-large-odoo-database/)
-- [How To Use Lambda Function in Odoo](https://altelasoftware.com/how-to-use-lambda-function-in-odoo/)
-- [How to Enable Harmonized System in Odoo](https://altelasoftware.com/how-to-enable-harmonized-system-in-odoo/)
 <!-- BLOG-POST-LIST:END -->
 
 
