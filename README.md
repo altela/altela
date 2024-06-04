@@ -1,8 +1,8 @@
 Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647), freelancing, and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
 <!-- BLOG-POST-LIST:START -->
-- [How To Create Odoo Clickable Status Bar](https://altelasoftware.com/how-to-create-odoo-clickable-status-bar/)
-- [How To Migrate On-Premise Odoo to odoo.sh](https://altelasoftware.com/how-to-migrate-on-premise-odoo-to-odoo-sh/)
-- [Odoo Error Installing Module : Record cannot be modified right now](https://altelasoftware.com/odoo-error-installing-module-record-cannot-be-modified-right-now/)
+- [How To Create Odoo Clickable Status Bar](https://www.altelasoftware.com/how-to-create-odoo-clickable-status-bar/)
+- [How To Migrate On-Premise Odoo to odoo.sh](https://www.altelasoftware.com/how-to-migrate-on-premise-odoo-to-odoo-sh/)
+- [Odoo Error Installing Module : Record cannot be modified right now](https://www.altelasoftware.com/odoo-error-installing-module-record-cannot-be-modified-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
 
