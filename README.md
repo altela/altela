@@ -5,10 +5,17 @@ Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_mainta
 - [Odoo Error Installing Module : Record cannot be modified right now](https://www.altelasoftware.com/odoo-error-installing-module-record-cannot-be-modified-right-now/)
 <!-- BLOG-POST-LIST:END -->
 
+<details>
+    <summary>My Leetcode Statistic</summary>
+    <div>
+        <img src="https://leetcard.jacoblin.cool/altela?ext=heatmap" alt="LeetCode Heatmap">
+    </div>
+</details>
+
 
 <details>
     <summary>My statistic in Github</summary>
-<div>
+    <div>
 
 <br />
 
@@ -32,10 +39,5 @@ HTML              0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
-
-<details>
-    <summary>My Leetcode Activity</summary>
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/altela)
-</details>
-
 <!-- Waka documentation : https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
+
