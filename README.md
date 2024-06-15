@@ -7,8 +7,9 @@ Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_mainta
 
 <details>
     <summary>My Leetcode Statistic</summary>
+    <br/>
     <div>
-        <img src="https://leetcard.jacoblin.cool/altela?ext=heatmap" alt="LeetCode Heatmap">
+        <img src="https://leetcard.jacoblin.cool/altela?ext=activity" >
     </div>
 </details>
 
