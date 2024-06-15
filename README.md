@@ -33,4 +33,9 @@ HTML              0 secs          ░░░░░░░░░░░░░░░�
 
 </details>
 
+<details>
+    <summary>My Leetcode Activity</summary>
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/altela)
+</details>
+
 <!-- Waka documentation : https://medium.com/@JakenH/show-off-your-coding-stats-on-your-github-profile-using-wakatime-ce3ceb1063b5 -->
