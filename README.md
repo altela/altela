@@ -30,11 +30,11 @@ Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_mainta
 <!--START_SECTION:waka-->
 
 ```txt
-Python             10 hrs 25 mins  ██████████████▓░░░░░░░░░░   58.68 %
-XML                5 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-textmate           53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-SCSS               47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-JavaScript         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python             9 hrs 39 mins   █████████████▒░░░░░░░░░░░   53.20 %
+XML                6 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   35.45 %
+textmate           53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+SCSS               47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+JavaScript         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
