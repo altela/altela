@@ -1,9 +1,4 @@
-Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647), freelancing, and writing documentation in my [website](https://altelasoftware.com). Here are some of them :
-<!-- BLOG-POST-LIST:START -->
-- [How To Install Custom Module on Odoo.sh](https://www.altelasoftware.com/how-to-install-custom-module-on-odoo-sh/)
-- [How To Create Odoo Clickable Status Bar](https://www.altelasoftware.com/how-to-create-odoo-clickable-status-bar/)
-- [How To Migrate On-Premise Odoo to odoo.sh](https://www.altelasoftware.com/how-to-migrate-on-premise-odoo-to-odoo-sh/)
-<!-- BLOG-POST-LIST:END -->
+Hi, I'm selling [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647) and freelancing.
 
 <details>
     <summary>My Leetcode Statistic</summary>
