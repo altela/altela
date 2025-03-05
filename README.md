@@ -26,7 +26,7 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 
 ```txt
 XML               1 hr 54 mins    █████████████▒░░░░░░░░░░░   53.75 %
-Python            1 hr 37 mins    ███████████▒░░░░░░░░░░░░░   45.82 %
+Python            1 hr 37 mins    ███████████▒░░░░░░░░░░░░░   45.81 %
 textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
