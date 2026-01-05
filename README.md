@@ -25,9 +25,9 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 <!--START_SECTION:waka-->
 
 ```txt
-XML      2 hrs 9 mins    ████████████▓░░░░░░░░░░░░   50.69 %
-Python   2 hrs 4 mins    ████████████░░░░░░░░░░░░░   48.59 %
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python   2 hrs 18 mins   ███████████████░░░░░░░░░░   60.00 %
+XML      1 hr 30 mins    █████████▓░░░░░░░░░░░░░░░   39.20 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
