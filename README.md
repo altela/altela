@@ -25,11 +25,11 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           7 hrs 24 mins         ███████████████▒░░░░░░░░░   60.97 %
-Python             3 hrs 51 mins         ████████░░░░░░░░░░░░░░░░░   31.78 %
-textmate           29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-XML                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other              7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown           7 hrs 45 mins         ██████████████░░░░░░░░░░░   55.85 %
+Python             5 hrs 8 mins          █████████▒░░░░░░░░░░░░░░░   37.06 %
+textmate           29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+XML                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+SQL                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
