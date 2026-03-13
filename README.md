@@ -1,12 +1,12 @@
 Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing [Odoo ERP modules](https://apps.odoo.com/apps/browse?repo_maintainer_id=276647).
 
-<details>
+<!-- <details>
     <summary>My Leetcode Statistic</summary>
     <br/>
     <div>
         <img src="https://leetcard.jacoblin.cool/altela?ext=activity" >
     </div>
-</details>
+</details> -->
 
 
 <details>
