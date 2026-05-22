@@ -25,11 +25,11 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript         4 hrs 20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-Markdown           4 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   28.48 %
-XML                3 hrs 21 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-Python             1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-JavaScript         32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+TypeScript         4 hrs 24 mins         ███████░░░░░░░░░░░░░░░░░░   28.08 %
+Markdown           4 hrs 10 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.66 %
+XML                3 hrs 26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Python             1 hr 53 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+JavaScript         34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
