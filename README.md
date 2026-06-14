@@ -27,8 +27,8 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 ```txt
 Python       3 hrs 56 mins         █████████████▒░░░░░░░░░░░   52.76 %
 JavaScript   2 hrs                 ██████▓░░░░░░░░░░░░░░░░░░   26.99 %
-XML          44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Markdown     27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+XML          44 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Markdown     27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 SCSS         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
