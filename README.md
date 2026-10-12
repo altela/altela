@@ -26,7 +26,7 @@ Hi, I'm running [Altela Software](https://www.altelasoftware.com) and publishing
 
 ```txt
 Python       2 hrs 40 mins         ██████████▒░░░░░░░░░░░░░░   41.44 %
-Markdown     1 hr 39 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Markdown     1 hr 39 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
 SCSS         47 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
 TypeScript   43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
 Other        24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
